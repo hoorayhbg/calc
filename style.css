@@ -1,0 +1,14 @@
+* {
+    margin: 10px;
+}
+body {
+    background-color: black;
+    color: wheat;
+    font-size: 35px;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
